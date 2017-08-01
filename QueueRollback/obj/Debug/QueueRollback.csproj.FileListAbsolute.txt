@@ -1,0 +1,12 @@
+c:\users\jblack\documents\visual studio 2017\Projects\QueueRollback\QueueRollback\bin\Debug\QueueRollback.exe.config
+c:\users\jblack\documents\visual studio 2017\Projects\QueueRollback\QueueRollback\bin\Debug\QueueRollback.exe
+c:\users\jblack\documents\visual studio 2017\Projects\QueueRollback\QueueRollback\bin\Debug\QueueRollback.pdb
+c:\users\jblack\documents\visual studio 2017\Projects\QueueRollback\QueueRollback\obj\Debug\QueueRollback.csprojResolveAssemblyReference.cache
+c:\users\jblack\documents\visual studio 2017\Projects\QueueRollback\QueueRollback\obj\Debug\QueueRollback.exe
+c:\users\jblack\documents\visual studio 2017\Projects\QueueRollback\QueueRollback\obj\Debug\QueueRollback.pdb
+C:\Users\jblack\Documents\GitHub\RollbackQueue\QueueRollback\bin\Debug\QueueRollback.exe.config
+C:\Users\jblack\Documents\GitHub\RollbackQueue\QueueRollback\bin\Debug\QueueRollback.exe
+C:\Users\jblack\Documents\GitHub\RollbackQueue\QueueRollback\bin\Debug\QueueRollback.pdb
+C:\Users\jblack\Documents\GitHub\RollbackQueue\QueueRollback\obj\Debug\QueueRollback.csprojResolveAssemblyReference.cache
+C:\Users\jblack\Documents\GitHub\RollbackQueue\QueueRollback\obj\Debug\QueueRollback.exe
+C:\Users\jblack\Documents\GitHub\RollbackQueue\QueueRollback\obj\Debug\QueueRollback.pdb
